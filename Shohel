@@ -1,0 +1,18 @@
+# shohel-rana
+
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/Sony-six-hd.png" group-title="BDIX-SHOHEL" ,Sony Six HD
+http://103.81.104.118/hls/stream10.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/PTV_Sports.png" group-title="BDIX-SHOHEL" ,PTV Sports
+http://103.81.104.118/hls/stream11.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/Star_Sports_Select_1_HD.jpg" group-title="BDIX-SHOHEL" ,Star Sports Select HD 1
+http://103.81.104.118/hls/stream12.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/stersports1hd.jpg" group-title="BDIX-SHOHEL" ,Star Sports 1
+http://103.81.104.118/hls/stream15.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/ster-sport-2hd.png" group-title="BDIX-SHOHEL" ,Star Sports HD 2
+http://103.81.104.118/hls/stream16.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/ten_sports.jpg" roup-title="BDIX-SHOHEL",Ten Cricket
+http://103.81.104.118/hls/stream34.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/sony_ten_2.jpg" group-title="BDIX-SHOHEL" group-title="BDIX-SHOHEL",Sony Ten 2 HD
+http://103.81.104.118/hls/stream39.m3u8
+#EXTINF:-1 tvg-logo="http://103.81.104.118/img/sony_ten_1.jpg" group-title="BDIX-SHOHEL",Sony Ten 1 HD
+http://103.81.104.118/hls/stream40.m3u8
